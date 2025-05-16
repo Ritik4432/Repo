@@ -1,4 +1,4 @@
 # Repo
 This Is my first repository..
 <br>
-Author - RITIK SINGH
+Author - RITIK KUMAR
